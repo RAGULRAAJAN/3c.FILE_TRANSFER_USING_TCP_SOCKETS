@@ -9,10 +9,14 @@ To write a python program for creating File Transfer using TCP Sockets Links
 5. In the client side receive the file from server and then write the content into it.
 ## PROGRAM
   ## Client:
-    ![Screenshot 2024-10-07 140416](https://github.com/user-attachments/assets/938f25a5-463c-478f-bd81-629ea877688c)
-   ## Server:
-    ![Screenshot 2024-10-07 140539](https://github.com/user-attachments/assets/a3ec57a7-466c-4d80-b88c-354918b4467a)
 
+    ![Screenshot 2024-10-07 140416](https://github.com/user-attachments/assets/a73106d6-7000-43de-a33a-419a33e2c0da)
+
+   ## Server:
+
+   ![Screenshot 2024-10-07 140539](https://github.com/user-attachments/assets/fc841f92-080d-4f27-9d08-326acc1136a6)
+
+   
 ## OUPUT:
    ## Client:
    
