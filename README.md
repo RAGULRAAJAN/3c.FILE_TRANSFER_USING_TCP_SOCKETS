@@ -15,9 +15,11 @@ To write a python program for creating File Transfer using TCP Sockets Links
 
 ## OUPUT:
    ## Client:
+   
    ![Screenshot 2024-10-07 141812](https://github.com/user-attachments/assets/786c57df-57ea-4017-94ae-7b4fce27ca1d)
 
    ## Server:
+   
    ![Screenshot 2024-10-07 141820](https://github.com/user-attachments/assets/93dfe520-bca2-4a53-9c81-f382e3f0324c)
 
 ## RESULT
